@@ -1,0 +1,61 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	color: black;
+	font-family: "Roboto", sans-serif;
+}
+nav {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	min-height: 15vh;
+	background-color: rgb(175, 174, 245);
+	font-family: "Roboto", sans-serif;
+	font-style: italic;
+}
+
+.logo {
+	color: rgb(32, 222, 255);
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-size: 20px;
+	font-style: italic;
+}
+
+.nav-links {
+	display: flex;
+	justify-content: space-around;
+	width: 30%;
+	font-style: italic;
+	text-decoration: none;
+}
+
+.nav-links a {
+	color: rgb(3, 3, 3);
+	text-decoration: none;
+	letter-spacing: 3px;
+	font-weight: bold;
+	font-size: 14px;
+	font-style: italic;
+}
+
+.index2, .index3, .index4, .index5, .index6, .index7, .index8 {
+	padding: 5%;
+	color: black;
+	font-style: italic;
+	text-decoration: underline;
+	font-size: xx-large;
+}
+
+.putithere {
+	padding: 8%;
+	color: black;
+	font-style: italic;
+	text-decoration: underline;
+	font-size: large;
+}
+a {
+	color: rgb(56, 252, 89);
+	padding: 2.5%;
+}
